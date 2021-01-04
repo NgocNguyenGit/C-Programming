@@ -1,0 +1,53 @@
+Try to do 8 of these tasks to get "passed".
+
+1.
+User is asked to give the amount of values.
+Then a new array is created.
+It is filled with randon numbers.
+10 first are then printed
+
+2.
+Function converts the text to morse code characters.
+
+3.
+Function checks if the post code includes exactly 5 numbers
+
+4.
+Program checks if an email-address contains '@' character.
+
+5.
+Program prints out the country code (top level domain name) of an url.
+
+6.
+Program prints out the protocol of an url.
+
+7.
+Program tells if a string is a palindrome.
+
+8.
+NMEA sentence ($GPGGA)is given and your program prints the longitude and latitude.
+Then an url is created by using google's map url: latitude and longitude are
+added to that url. Copy url then to web browser: where is the place?
+
+9.
+String variable contains 5 measures separated by commas. Your program calculates the average
+of those values. (E.g. "2, 3.5, 1, 5.8, 10") is given.)
+
+10.
+Your program checks if given ISBN is correct.
+
+11. Most popular girl names in Vietnam are here
+http://www.studentsoftheworld.info/penpals/stats.php?Pays=VTN
+They are added to the textfile named "names.txt".
+Put names to a C array. Print the array.
+Find the position of given name.
+
+12. Create a Finnish English dictionary.
+
+
+13. Print 2 formats of some random English irregular verb.
+User have to give the 3. one.
+Check the answer.
+Try to get some verbs from Internet and add them to an array.
+E.g. here
+https://www.englishpage.com/irregularverbs/irregularverbs.html

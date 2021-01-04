@@ -1,0 +1,75 @@
+Weekly tasks:
+ 
+1)
+Read from study material
+https://www.tutorialspoint.com/cprogramming/index.htm
+ 
+these parts
+C - Home
+C - Overview
+C - Environment Setup
+C - Program Structure
+C - Basic Syntax
+C - Data Types
+C - Variables
+ 
+Take a look at another good material, too:
+https://www.w3schools.in/c-tutorial/
+ 
+Which one do you prefer?
+ 
+2)
+Install C tool
+Here were the guides
+Tool guides
+ 
+DevC++ Guide:
+https://www.instructables.com/id/Your-First-Program-in-C-1/
+ 
+Visual Studio 2017
+https://www.youtube.com/watch?v=YOLN-t09-tM
+ 
+CodeBlocks
+https://www.wikihow.com/Download,-Install,-and-Use-Code::Blocks
+ 
+3)
+watch 2 first videos from the page
+https://darryrobinson.wixsite.com/kakevideos
+ 
+4)
+Try to do at least 3 of these assignments
+(they need not to be returned)
+ 
+From Optima, "task_set_1.txt":
+1
+Define suitable variables:
+a) 999999
+b) 5.55555555555
+c) 'x'
+e) 2.33
+f) 10
+g) 300
+h) 9 billions
+i) 3 billions
+ 
+2
+Our programs uses Ohm's law to calculate the resistance.
+User gives voltage and current.
+ 
+ 
+3
+User gives the speed of the car (km/h) and the distance (km). Program calculates amount of time.
+a) in hours
+b) in whole hours and minutes
+ 
+4
+Our program calculates BMI.
+ 
+5
+Create a euro converter: dollars to euros.
+ 
+6
+Convert seconds to hours, minutes, seconds.
+ 
+7
+Convert euros to 5, 10, 20, 50, 100, 200, 500 euros bills.

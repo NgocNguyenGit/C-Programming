@@ -1,0 +1,65 @@
+Part 2
+
+
+Create these functions:
+
+1. Calculates the sum of 2 integers and prints out the result.
+
+2. Returns the sum of 2 integers.
+
+3. Returns the average of 2 integers
+
+4. Returns the average of 4 floating point values.
+
+6. Returns the factorial.
+
+7. Returns the biggest of 2 integers.
+
+8. Returns the biggest of 3 integers.
+
+10. Converts inches to centimeters.
+
+11. Returns the BMI.
+
+12. Function returns the biggest of 5 integers.
+
+15. Program with functions calculates amount of combinations.
+
+16. Function prints out a lotto row.
+
+17. Program with functions calculates the standard deviation.
+
+18. Functions calculate:
+- sum of an array
+- min and max
+
+19. Function searches for a value from an array.
+
+20. Returns the sum of an array.
+
+21. Function multiplies every value in an array by 2.
+
+22.
+A character is passed to a function: funtion returns True if character is 
+a vowel, otherwise False (0). 
+(Five of the 26 alphabet letters are vowels: A, E, I, O, and U. )
+
+23.
+A whole number and an array (size is 5, contains integers) are passed to 
+a function that checks how many times passed value exists in that passed array 
+and returns the amount.
+
+24.
+Your program defines and fills an array of 10 integers with random numbers that are between 1-5.
+That array is passed to a method that counts the amounts of different values and prints then out.
+
+25.
+Duration and frequency are passed to a function that plays then that sound (windows.h neeeded).
+
+=================================================================
+Functions that handle strings are to be done later
+=================================================================
+
+Function converts the text to morse code characters.
+
+Function checks if the post code includes exactly 5 numbers.

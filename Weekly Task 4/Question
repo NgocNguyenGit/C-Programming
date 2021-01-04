@@ -1,0 +1,59 @@
+1
+Create a program that
+a) fills an array with random numbers
+b) prints an array
+c) calculates the sum
+d) calculates the average
+e) finds the max and min
+f) finds a spesific values
+g) tells how many times some value exists in an array
+
+2
+Create a program that multiplies array values with given value.
+
+3
+Create a program that
+calculates the sum of 2 array values to 3. array.
+
+4
+Create a program that fills and prints a 3x4 array,
+
+5
+Create a program that contains an array that has this structure
+1. column contains a year
+2. column contains the population of the world
+Put there some 5 rows.
+Print it.
+Search the population of some year.
+
+
+6
+Create a program that contains an array that has this structure
+1. row contains the population of some country
+2. row contains the area of that country
+3. row is empty
+Calculate the population density to 3. row.
+
+
+7
+Create a program that contains an array that has this structure ans values.
+1 5 6 6 7 7
+2 4 6 8 8 8
+3 5 5 8 6 8
+4 9 6 8 5 8
+5 7 6 7 8 10
+
+1. column is the order of measurement set
+Columns 2-6 contain measurement values
+Search for the biggest average of those measurement sets
+
+
+8
+Your array has these values
+1, 2, 5, 8, 4, 2, 3, 22, 33, 11, 0, 5
+
+Write a program that tells how many values are bigger than 10.
+
+9 BONUS
+Create a program that contains an array that contains 8 measurements.
+Calculate the standard deviation. Compare the result to Excel result.

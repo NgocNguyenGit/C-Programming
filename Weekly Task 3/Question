@@ -1,0 +1,74 @@
+15
+Program calculates the sum of values 1 - 5.
+Use: for, while and do-while
+ 
+16
+Program calculates the sum of even numbers between 2 - 40.
+Use: for, while and do-while
+ 
+17
+Program calculates sum: 5, 10, 15, .. 100.
+Use: for, while and do-while
+ 
+18
+Program generates 50 random numbers (between 1 to 10) and calculates sum and average.
+ 
+19
+Program throws dice 100 times and tells amounts of different values (1, 2, 3, 4, 5, and 6).
+ 
+ 
+20
+Account manager with menu:
+User can make deposits
+Do withdrawal
+Check the balance
+
+Create a menu
+take money
+add money
+check balance
+exit
+
+Variable for account balance has to be global!
+=> declare it outside (above) the while loop 
+
+When user takes money you have to check if there is enough money...
+
+
+21
+Try to solve this equation:
+3x^3 - 4x^2 + 9x +5 = 0
+Here ^ means exponent
+ 
+ 
+22
+Print this kind shape: character and amount of rows are given.
+o
+oo
+ooo
+oooo
+ooooo
+oooooo
+ 
+and so on.
+ 
+23. Then try to generate this:
+o
+oo
+ooo
+oooo
+ooooo
+oooooo
+ooooo
+oooo
+ooo
+oo
+o
+ 
+24
+Voluntary, bonus
+Generate a lotto row.
+ 
+ 
+25
+Calculate factorial and combinations.

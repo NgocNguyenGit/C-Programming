@@ -1,0 +1,39 @@
+Struct
+
+ 1.
+Create a struct that models a Dot.
+Create the 2 dots in your program.
+ 
+Add then 20 dots to an array (use random numbers)
+Print dots
+ 
+Calculate the distance of first and last dots.
+ 
+ 
+
+Header files
+
+2.
+ 
+Program calculates the hypotenuse of an triangle when other sides are given.
+
+3.
+ 
+A stone is dropped down from the top of Pisa tower. What is the final speed of the stone and how much time does the fall take?
+ 
+ 4. 
+Program rounds a double value to a value that has 2 numbers in its fractional part.
+ 
+
+5. (Voluntary task)
+Program tells how much time does it take to sort an array of 100000 elements.
+Compare sorting times to time got from c:s own sort() function.
+ 
+
+6.
+Calculate the square root of some value using numeric method and compare the result
+to the value got with sqrt() function.
+
+7. 
+Calculate approximations of Nepers's value, pi and cos(0.9) and compare them t values of got from math.h functions.
+ 

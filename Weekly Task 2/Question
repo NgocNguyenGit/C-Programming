@@ -1,0 +1,26 @@
+9
+User gives a value and our program tells if the value is > 100 or not.
+
+10
+Write a program which reads two integer values.
+If the first is less than the second, print the message "up".
+If the second is less than the first, print the message "down ".
+If the numbers are equal, print the message "equal".
+
+11
+User enters a weekday number and the program tells the name of the day in Germany.
+
+12
+Program solves a quadratic equation
+Note: you have to include math.h to your source file and
+then use sqrt() function.
+
+13
+User gives a month number and our program tells the number of days in that month.
+
+14
+User gives the lengths of the triangle's sides. Program tells what is the triangle
+like and calculates the area of the triangle
+
+14.5
+Create a programn: what is the biggest of 3 given values?
